@@ -1,6 +1,6 @@
 # Pomodoro React App
 
-⏲ React Pomodoro timer + Frontend Mentor's visual design.
+⏲ React Pomodoro timer 
 
 
 If you're just interested in the timer, you can [run it here](https://pomodoro.astroud.vercel.app).
@@ -80,10 +80,3 @@ PRs accepted.
 
 ### Known Issues
 Does not track your start time or save your preferences, so timer stops if your computer sleeps and the settings need to be reentered when the page is refreshed.
-
-## License
-[MIT © Aaron Stroud.](./LICENSE)
-
-
-## Author
-👋 I'm a frontend web developer + Tech & Communications Specialist. #opentowork Older work: @Cotni and @incsuccess
