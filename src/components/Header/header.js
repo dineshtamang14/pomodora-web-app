@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = ({ title }) => {
   return(
-    <h1>{title}</h1>
+    <a target="_blank" rel="noopener noreferrer" href="https://dineshtamang.tech"><h1>{title}</h1></a>
   )
 }
 
